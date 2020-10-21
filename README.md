@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Python Projects**
 
-- 👨‍💻 All of my projects are available at [GitHub https://github.com/Ankitsinghprograms](GitHub https://github.com/Ankitsinghprograms)
+- 👨‍💻 All of my projects are available at **GitHub https://github.com/Ankitsinghprograms**
 
 - 💬 Ask me about **Anything😄😄**
 
