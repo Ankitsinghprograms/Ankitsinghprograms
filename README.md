@@ -3,9 +3,9 @@
 
 <img src="https://image.spreadshirtmedia.com/image-server/v1/mp/compositions/T993A1MPA2168PT10X47Y13D1025222056FS5290/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true,version=1568308097/coding-passion-mouse-pad.jpg" align="right" width="40%" alt="Coding is my Life">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghprograms&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghprograms" width ="50%" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghprograms&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghprograms" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsinghprograms" alt="ankitsinghprograms" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsinghprograms" alt="ankitsinghprograms" width ="50%"/></a> </p>
 
 - 🌱 I’m currently learning **Python🤓😎**
 
