@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A am passionate towards programming.</h3>
+<img src="https://images.app.goo.gl/CwJ3JHss7ezZgrxFA" float="right" alt="Coding is my passion">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghprograms&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghprograms" /> </p>
 
