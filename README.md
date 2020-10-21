@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Make any pull request and comment that You want to contact me Then I will give You my Email. I basically don't want to spread my Email 🙄😅.**
 
-- 📄 Know about my experiences I am beginner in this field 😅😅
+- 📄 Know about my experiences **I am beginner in this field 😅😅**
 
 - ⚡ Fun fact **I am still Improving my english and I am new to GitHub 😅😅.**
 
