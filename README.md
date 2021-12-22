@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsinghprograms" alt="ankitsinghprograms" width ="55%"/></a> </p>
 
-- 🌱 I’m currently learning **Python🤓😎**
+- 🌱 I’m currently doing **Competetive programming**
 
 - 👯 I’m looking to collaborate on **GitHub and make new Intersting projects**
 
-- 🤝 I’m looking for help with **Python Projects**
+- 🤝 I’m looking for help with **Competetive Programming**
 
 - 👨‍💻 All of my projects are available at **GitHub https://github.com/Ankitsinghprograms**
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **ankitsingh300307@gmail.com**
 
-- 📄 Know about my experiences **I am beginner in this field 😅😅**
+- 📄 Know about my experiences **1.5 yr**
 
-- ⚡ Fun fact **I am still Improving my english and I am new to GitHub 😅😅.**
+- ⚡ Fun fact ** My typing speed is only 20-30wpm 😑😑**
 
 
 
