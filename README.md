@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsinghprograms" alt="ankitsinghprograms" width ="55%"/></a> </p>
 
-- 🌱 I’m currently doing **Competetive programming**
+- 🌱 I’m currently doing **Competitive Programming**
 
 - 👯 I’m looking to collaborate on **GitHub and make new Intersting projects**
 
-- 🤝 I’m looking for help with **Competetive Programming**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at **GitHub https://github.com/Ankitsinghprograms**
 
