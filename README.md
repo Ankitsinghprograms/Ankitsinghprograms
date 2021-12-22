@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Anything😄😄**
 
-- 📫 How to reach me **Make any pull request and comment that You want to contact me Then I will give You my Email. I basically don't want to spread my Email 🙄😅.**
+- 📫 How to reach me **ankitsingh300307@gmail.com**
 
 - 📄 Know about my experiences **I am beginner in this field 😅😅**
 
